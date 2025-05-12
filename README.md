@@ -1,1 +1,0 @@
-# beta_launcher_referentiel
